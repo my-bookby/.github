@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/my-bookby/.github/main/profile/logo.png" width="100" alt="BookBy" />
+  <img src="./logo.png" width="100" alt="BookBy" />
 
   # BookBy
   
